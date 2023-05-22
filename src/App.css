@@ -1,1 +1,12 @@
+.main-field {
+   box-sizing: border-box;
+   width: 100%;
+   height: 100vh;
+}
 
+.main-field-register {
+   box-sizing: border-box;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+ }
